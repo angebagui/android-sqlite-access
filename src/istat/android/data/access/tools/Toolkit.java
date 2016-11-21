@@ -1,4 +1,4 @@
-package istat.android.data.access.utils;
+package istat.android.data.access.tools;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.ParameterizedType;

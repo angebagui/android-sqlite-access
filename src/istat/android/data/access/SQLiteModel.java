@@ -12,7 +12,7 @@ import java.util.Iterator;
 import java.util.List;
 
 import istat.android.data.access.interfaces.JSONable;
-import istat.android.data.access.utils.Toolkit;
+import istat.android.data.access.tools.Toolkit;
 
 import org.json.JSONArray;
 import org.json.JSONException;
